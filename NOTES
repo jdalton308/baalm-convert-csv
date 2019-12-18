@@ -1,0 +1,20 @@
+
+
+Manually:
+- Delete Email column
+- Delete products columns (Maybe. They will be deleted in Shopify anyway)
+
+
+
+- For column titles, create a reference map of old: new nameing, and then loop through and convert
+  - Also include if needs to be array or string
+  - Also include old values -> new value conversion
+- In each column,  
+
+
+
+Strings:
+- 'zipcode'
+- 'skin_tone'
+- 'allergies'
+

@@ -1,0 +1,15 @@
+{
+  "name": "baalm-csv-convert",
+  "version": "1.0.0",
+  "description": "Node script to edit Shopify custom fields CSV file export, and output an updated CSV file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.3.1",
+    "csv-writer": "^1.5.0"
+  }
+}
